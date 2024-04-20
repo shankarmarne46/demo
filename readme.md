@@ -1,3 +1,4 @@
 ## Demo
-Adding file
-New Repository
+Adding a file
+using git bash
+
